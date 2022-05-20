@@ -7,6 +7,10 @@ namespace banconovo
     {
         static void Main(string[] args)
         {   
+            char continuar = 's';
+
+            while (continuar == 's' || continuar == 'S')
+            {
             BancoRepository br = new BancoRepository();
             Console.Clear();
             Console.WriteLine("Bem-vindos ao Banco Novo!");
@@ -18,7 +22,7 @@ namespace banconovo
             Console.WriteLine("5- Fazer um depósito na poupança");
             Console.WriteLine("6- Listar todos os titulares.");
             Console.WriteLine("7- Listar todos as contas.");
-            Console.WriteLine("8 - Listar titulares e contas.");
+            Console.WriteLine("8- Listar titulares e contas.");
             Console.WriteLine("9- Digite o cpf do titular para verificar conta.");
             int comando = int.Parse(Console.ReadLine());
             Titular titular = new Titular();
@@ -149,8 +153,13 @@ namespace banconovo
                 default:
                 Console.WriteLine("Comando invalido!!");
                 break;
-            }
-
+        
         }
+        Console.WriteLine("Deseja Continuar ? (S/N)");
+        continuar = char.Parse(Console.ReadLine());
+            }
+      
+        
     }
+}
 }
