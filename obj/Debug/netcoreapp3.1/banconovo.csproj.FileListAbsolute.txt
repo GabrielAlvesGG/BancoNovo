@@ -1,0 +1,16 @@
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\banconovo.exe
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\banconovo.deps.json
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\banconovo.runtimeconfig.json
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\banconovo.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\banconovo.dll
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\banconovo.pdb
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.csprojAssemblyReference.cache
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.dll
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.pdb
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.genruntimeconfig.cache
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alves\OneDrive\Documentos\C# Completo\Primeiro Programa\banconovo\obj\Debug\netcoreapp3.1\banconovo.csproj.CopyComplete

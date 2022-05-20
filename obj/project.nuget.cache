@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1bdJM/NG9esGMxtyDV38Ov+Zfms4DSpM0Wesyk8hqGLvMZC5KTmLHsaKjinqCUT1M2hC2eDCTPsCPK9lrXuRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alves\\OneDrive\\Documentos\\C# Completo\\Primeiro Programa\\banconovo\\banconovo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alves\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512",
+    "C:\\Users\\alves\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
