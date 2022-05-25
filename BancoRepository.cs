@@ -106,6 +106,7 @@ namespace banconovo
               conexao.Open();
               string query = "SELECT * FROM titular WHERER id =" + id ;
               MySqlCommand comando = new MySqlCommand(query,conexao);
+              comando.Parameters.AddWithValue("@id", id);
               MySqlDataReader reader = comando.ExecuteReader();
                 Titular titular = null;
               if(reader.Read()){
