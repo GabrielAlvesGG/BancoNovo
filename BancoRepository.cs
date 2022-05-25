@@ -25,6 +25,9 @@ namespace banconovo
             conexao.Open();
             string query = "INSERT INTO titular (nome, cpf, dataNascimento ) VALUES ( '" + titular.nome + "', '" + titular.cpf + "', '" + titular.dataNascimento + "') " ;
             MySqlCommand comando = new MySqlCommand(query,conexao);
+            comando.Parameters.AddWithValue("@nome", titular.nome);
+            comando.Parameters.AddWithValue("@cpf", titular.cpf);
+            comando.Parameters.AddWithValue("@dataNascimento", titular.dataNascimento);
             comando.ExecuteNonQuery();
             conexao.Close();
         }
