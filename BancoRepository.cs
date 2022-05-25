@@ -40,6 +40,8 @@ namespace banconovo
             MySqlCommand comando = new MySqlCommand(query, conexao);
             comando.Parameters.AddWithValue("@agencia", conta.agencia);
             comando.Parameters.AddWithValue("@numeroConta", conta.numeroConta);
+            comando.Parameters.AddWithValue("@poupanca", conta.poupanca);
+            comando.Parameters.AddWithValue("@saldo", conta.saldo);
             comando.ExecuteNonQuery();
             conexao.Close();
         }
