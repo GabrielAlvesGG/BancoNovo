@@ -38,6 +38,8 @@ namespace banconovo
             conexao.Open();
             string query = "INSERT INTO conta (agencia, numeroConta, poupanca, saldo ) VALUES ('" + conta.agencia + "' , '" + conta.numeroConta + "' , '" + conta.poupanca + "', '" + conta.saldo + "')";
             MySqlCommand comando = new MySqlCommand(query, conexao);
+            comando.Parameters.AddWithValue("@agencia", conta.agencia);
+            comando.Parameters.AddWithValue("@numeroConta", conta.numeroConta);
             comando.ExecuteNonQuery();
             conexao.Close();
         }
